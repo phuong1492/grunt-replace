@@ -19,7 +19,7 @@
   "dependencies": {
     "chalk": "^1.1.0",
     "lodash": "^4.17.11",
-    "applause": "1.2.2",
+    "applause": "git://github.com/phuong1492/applause.git",
     "file-sync-cmp": "^0.1.0"
   },
   "devDependencies": {
